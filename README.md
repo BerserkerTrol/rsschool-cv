@@ -24,4 +24,6 @@ Resume:
 	</script>
 </body>
 </html>
-6. 
+6. Administration and editing of the site, creation of several web pages and launch on hosting.
+7. I have special secondary education, specialty - software technician.
+8.
